@@ -5,10 +5,12 @@ This script use bitly api and short your link or give total clicks statistics by
 More info: python3 main.py -h
 
 Comand line EXAMPLE 1:
+```
 In:
 python3 main.py https://examplesite.com/
 Out:
 http://bit.ly/2XXX59g
+```
 
 Comand line EXAMPLE 2:
 In:
