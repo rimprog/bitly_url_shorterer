@@ -2,7 +2,10 @@
 
 This script use bitly api and short your link or give total clicks statistics by your short link. Just give positional argument "link" in your command line.
 
-More info: python3 main.py -h
+More info: 
+```
+python3 main.py -h
+```
 
 Comand line EXAMPLE 1:
 ```
